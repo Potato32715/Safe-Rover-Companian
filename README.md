@@ -1,6 +1,7 @@
 It is fast and easy:
 1. Extract zip
 2. choose your Rover!
+<img width="114" height="128" alt="image" src="https://github.com/user-attachments/assets/5adec7b4-c2bd-44e6-8a3b-25d059e9b51f" />
 
 Extra Info:
 
